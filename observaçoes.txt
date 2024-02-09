@@ -1,0 +1,12 @@
+Projeto Landing Page GTA, temos um arquivo html muito bem estruturado com cabeçalho, conteudo, listas, imagens e menu.
+proporcionando uma estrutura bem organizada com comentarios que mostram cada etapa do projeto.
+
+temos um arquivo css: que define os estilos da pagina, com efeitos de hover fontes cores o que embelezam o site.
+
+temos tambem um arquivo js que nos proporciona efeitos de onclik na escolha das plataformas de compra.
+
+este projeto foi feito para fins educacionais.
+
+dia 09/02/2024 -- Francine Hollweg
+
+
